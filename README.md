@@ -1,2 +1,4 @@
+# Contains my personal TensorFlow notes
+
 # TensorFlow
-Contains all TensorFlow related material for my blog posts
+
